@@ -1,7 +1,7 @@
 # Joi_error_messages
 
 messages: {
-        'string.alphanum': '{{#label}} must only contain alpha-numeric characters',
+        'string.alphanum': '{{#label}} must only contain alpha-numeric characters',\
         'string.base': '{{#label}} must be a string',
         'string.base64': '{{#label}} must be a valid base64 string',
         'string.creditCard': '{{#label}} must be a credit card',
