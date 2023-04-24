@@ -1,6 +1,6 @@
 # Joi_error_messages
 
-messages: {
+messages: {\
         'string.alphanum': '{{#label}} must only contain alpha-numeric characters',\
         'string.base': '{{#label}} must be a string',
         'string.base64': '{{#label}} must be a valid base64 string',
