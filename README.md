@@ -1,3 +1,4 @@
+https://stackoverflow.com/questions/48720942/node-js-joi-how-to-display-a-custom-error-messages
 # Joi_error_messages
 
 messages: {\
